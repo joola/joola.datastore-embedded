@@ -1,0 +1,36 @@
+{
+  "name": "joola.datastore-embedded",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "author": "Joola <info@joo.la>",
+  "description": "joola Embedded Datastore",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/joola/joola.datastore-embedded.git"
+  },
+  "bugs": "http://github.com/joola/joola.datastore-embedded/issues",
+  "contributors": [
+    {
+      "name": "Itay Weinberger",
+      "email": "itay@joo.la",
+      "url": "http://joo.la"
+    }
+  ],
+  "main": "./index.js",
+  "keywords": [
+    "data",
+    "analytics",
+    "big-data",
+    "visualization",
+    "noSQL"
+  ],
+  "dependencies": {
+    "async": "~0.9.0",
+    "cloneextend": "^0.0.3",
+    "nedb": "https://github.com/joola/nedb/tarball/master",
+    "traverse": "^0.6.6",
+    "underscore": "^1.7.0"
+  },
+  "license": "MIT"
+}
