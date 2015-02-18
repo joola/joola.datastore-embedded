@@ -1,4 +1,4 @@
-# joola Embedded Store [![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.png)](https://gitter.im/joola)
+# Joola Embedded Store [![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.png)](https://gitter.im/joola)
 
 | **[Technical Docs] [techdocs]**     | **[Setup Guide] [setup]**     | **[joola Docs] [api-docs]**           | **[Contributing] [contributing]**           | **[About joola] [about]**     |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|-------------------------------------|
