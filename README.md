@@ -1,20 +1,14 @@
-# Joola Embedded Store [![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.png)](https://gitter.im/joola)
+![Joola](http://i.imgur.com/PrqIYX7.png)
 
-| **[Technical Docs] [techdocs]**     | **[Setup Guide] [setup]**     | **[joola Docs] [api-docs]**           | **[Contributing] [contributing]**           | **[About joola] [about]**     |
-|-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|-------------------------------------|
-| [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [api-docs-image]] [api-docs] | [![i4] [contributing-image]] [contributing] | [![i5] [about-image]] [about] |
+[Joola][22] is a data analytics and visualization middleware designed to help you quickly build custom, embedded data analytics applications.
 
-<img src="https://joo.la/img/logo-profile.png" alt="joola logo" title="joola" align="right" />
+[![Build Status][3]][4] [![Gitter chat](https://badges.gitter.im/joola/joola.png)](https://gitter.im/joola)
 
-[joola][22] is a real-time data analytics and visualization framework.
 **joola.datastore-embedded** is a joola plugin to provide an in-memory based data store for its operation.
 
 ### Setup Guide
 
-
-### Technical Docs
-
-
+There's no need to setup anything, the embedded store is used when no other data stores are configured.
 
 ### Contributing
 We would love to get your help! We have outlined a simple [Contribution Policy][18] to support a transparent and easy merging
